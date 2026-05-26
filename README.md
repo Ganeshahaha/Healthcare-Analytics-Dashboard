@@ -56,6 +56,6 @@ Improves visibility into healthcare trends and KPIs
 
 6. Screenshots / Demos
 
-Executive Summary Page: https://github.com/Ganeshahaha/Healthcare-Analytics-Dashboard/blob/main/Executive%20Summary.png
+Executive Summary Page: ![Dashboard Preview].(https://github.com/Ganeshahaha/Healthcare-Analytics-Dashboard/blob/main/Executive%20Summary.png)
 
 Detailed Analysis Page: https://github.com/Ganeshahaha/Healthcare-Analytics-Dashboard/blob/main/Detailed%20View%20Page.png
