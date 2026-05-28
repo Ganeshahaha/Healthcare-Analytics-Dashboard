@@ -16,9 +16,13 @@ This dashboard is intended for healthcare administrators, analysts, operational 
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main platform used for dashboard development and interactive reporting.
+
 📂 Power Query – Used for data cleaning, transformation, and preparation.
+
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and dynamic filtering logic.
+
 🔗 Data Modeling – Relationships built between healthcare and specialty datasets for seamless cross-filtering and drill-down analysis.
+
 📁 File Format – .pbix for development and dashboard creation.
 
 4. Data Source
