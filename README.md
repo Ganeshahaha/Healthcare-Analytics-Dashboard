@@ -64,4 +64,7 @@ Executive Summary Page:
 ![image alt](https://github.com/Ganeshahaha/Healthcare-Analytics-Dashboard/blob/401c44d16a218c54edaa8141b7bae05d662c76b8/Executive%20Summary.png)
 
 Detailed Analysis Page: 
+![image alt](![image alt](https://github.com/Ganeshahaha/Healthcare-Analytics-Dashboard/blob/401c44d16a218c54edaa8141b7bae05d662c76b8/Executive%20Summary.png)
+
+
 
